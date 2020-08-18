@@ -13,7 +13,7 @@ function destructivelyRemoveLastKitten(){
 function destructivelyRemoveFirstKitten(){
   kittens.shift()
 }
-function  appendKitten(kitten){
+function  appendKitten(kittens){
   [...kittens,Kitten]
   return kittens
 }
