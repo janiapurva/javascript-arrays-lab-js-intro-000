@@ -7,6 +7,6 @@ function destructivelyAppendKitten(Ralph){
 function destructivelyPrependKitten(Bob){
   kittens.unshift("Bob")
 }
-function Arrays destructivelyRemoveLastKitten(kittens){
+function destructivelyRemoveLastKitten(kittens){
   kittens.pop()
 }
